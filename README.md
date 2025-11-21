@@ -1,57 +1,140 @@
+<!-- Enhanced header with more dynamic typing animation -->
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Hi,+I'm+Arya+Asa+Fikarda;IT+Fullstack+Trainer;Flutter+%26+Laravel+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Arya+Asa+Fikarda;IT+Fullstack+Trainer;Flutter+%26+Laravel+Developer;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <p>
+  <!-- Added email badge to social links -->
+  <br/><br/>
+  <div>
     <a href="https://www.youtube.com/@aryaasafikarda846" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
     </a>
     <a href="https://www.instagram.com/aryaasafikarda_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com/in/arya-asa-fikarda-" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-  </p>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 
 </div>
 
-<hr/>
+---
 
-<h3 align="center">👨‍💻 About Me</h3>
+<!-- Redesigned About Me section with animated gif and better layout -->
+## 💼 About Me
 
-<p align="center">
-  Hi, I'm <b>Arya Asa Fikarda</b>. I am an <b>IT Fullstack Trainer & Developer</b> at <b>Lauwba Techno Indonesia</b>.<br>
-  I specialize in building mobile apps with Flutter and robust backends with Laravel.
-</p>
+<div>
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC2Pfv19SEFh/giphy.gif" width="250" style="border-radius: 10px;" />
 
-<p align="center">
-  🔭 <b>Current Work:</b> Portal Berita App & E-Commerce System<br>
-  🌱 <b>Teaching:</b> Flutter Mobile Development<br>
-  📍 <b>Location:</b> Indonesia
-</p>
+  Passionate **IT Fullstack Trainer** and **Developer** currently at **Lauwba Techno Indonesia**. I transform complex ideas into elegant, scalable solutions using Flutter and Laravel.
 
-<br/>
+  **What I Do:**
+  - 📱 Build mobile apps with **Flutter & Dart**
+  - 🔧 Develop backend systems with **Laravel & PHP**
+  - 👨‍🏫 Train developers in modern tech stacks
+  - 💡 Create scalable, user-focused solutions
 
-<h3 align="center">🛠️ Tech Stack</h3>
+  **Current Focus:**
+  - 🔭 Portal Berita App & E-Commerce System
+  - 🌱 Teaching fullstack development
+  - 💻 Building innovative applications
+
+</div>
+
+<br clear="right"/><br/>
+
+---
+
+<!-- Organized tech stack into categories with better visual hierarchy -->
+## 🛠️ Tech Stack
+
+**Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Backend & Web**
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**Database & Version Control**
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Tools & Editors**
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<!-- Enhanced GitHub stats with activity graph -->
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,codeigniter,mysql,androidstudio,vscode,git,github,postman,figma&perline=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-asa-fikarda&show_icons=true&theme=midnight-blue&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-asa-fikarda&layout=compact&theme=midnight-blue&hide_border=true&langs_count=8" />
 </div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-asa-fikarda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-asa-fikarda&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya-asa-fikarda&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" />
 </div>
+
+---
+
+<!-- Added featured projects section -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Portal Berita App** | News portal with real-time updates | Flutter, Laravel, MySQL |
+| **E-Commerce System** | Full-stack marketplace solution | Flutter, Laravel, REST API |
+
+---
+
+## 💪 Skills & Expertise
+
+| Category | Skills |
+|----------|--------|
+| **Mobile** | Flutter, Dart, Android Development |
+| **Backend** | Laravel, PHP, CodeIgniter, REST APIs |
+| **Database** | MySQL, Firebase, Firestore |
+| **DevOps** | Git, GitHub, Version Control |
+
+---
+
+## 🎯 Let's Connect!
+
+Feel free to reach out if you want to discuss:
+- Flutter & Dart Development
+- Laravel Backend Architecture
+- Tech Mentoring & Teaching
+- Project Collaboration
+
+<div align="center">
+  <a href="https://www.youtube.com/@aryaasafikarda846">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube" />
+  </a>
+  <a href="https://www.instagram.com/aryaasafikarda_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/arya-asa-fikarda-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
+  </a>
+
+  <br/><br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=arya-asa-fikarda&label=Profile+Views&color=00d9ff&style=flat)
+
+  **Made with ❤️ by Arya Asa Fikarda**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
