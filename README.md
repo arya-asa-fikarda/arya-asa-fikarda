@@ -1,60 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Arya%20Asa%20Fikarda&fontSize=80&animation=fadeIn&fontAlignY=35&desc=IT%20Fullstack%20Trainer%20%26%20Developer&descAlignY=55&descAlign=50" alt="Arya Asa Fikarda Header" />
 
-  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arya+Asa+Fikarda;IT+Fullstack+Trainer;Flutter+%26+Laravel+Developer" alt="Typing SVG" />
+  </a>
 
-  <a href="https://www.youtube.com/@aryaasafikarda846" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=arya-asa-fikarda&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+  <br/><br/>
+
+  <a href="https://www.youtube.com/@aryaasafikarda846">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/aryaasafikarda_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/aryaasafikarda_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/arya-asa-fikarda-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/arya-asa-fikarda-">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
 </div>
 
 <hr/>
 
-### 👨‍💻 About Me
-
-Hi, I'm **Arya Asa Fikarda**. I am an **IT Fullstack Trainer & Developer** at **Lauwba Techno Indonesia**. I am passionate about teaching and building applications using Flutter for mobile and Laravel/CodeIgniter for backend.
-
-* 🔭 I’m currently working on **App Portal Berita & E-Commerce Apps**
-* 🌱 I’m currently teaching **Flutter Mobile Development**
-* 💻 My Stack: **Mobile (Flutter/Dart) & Backend (PHP/Laravel)**
-* 📍 Location: **Indonesia**
-
----
-
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+  ### 🚀 About Me
   
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  Currently teaching **Flutter Mobile Development** and building apps at **Lauwba Techno Indonesia**. I love turning complex logic into simple, beautiful code.
+
+  🔭 **Current Projects:** Portal Berita App & E-Commerce System
+  🌱 **Stack:** Mobile (Flutter/Dart) & Backend (PHP/Laravel)
+
+  <br/>
+
+  ### 🛠️ Tech Stack (Visual Icons)
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,codeigniter,mysql,androidstudio,vscode,git,github&perline=5" />
+  </p>
+
+  <br/>
+
+  ### 📊 GitHub Activity
   
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arya-asa-fikarda&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-asa-fikarda&layout=compact&theme=buefy&hide_border=true" height="160" />
+
 </div>
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-asa-fikarda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arya's Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-asa-fikarda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
