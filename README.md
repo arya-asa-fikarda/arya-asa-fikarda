@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arya+Asa+Fikarda;IT+Fullstack+Trainer;Flutter+%26+Laravel+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arya+Asa+Fikarda;IT+Fullstack+Trainer;Fflutter+%26+Laravel+Developer" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -28,17 +28,17 @@
 
   ### 🚀 About Me
   
-  Currently teaching **Flutter Mobile Development** and building apps at **Lauwba Techno Indonesia**. I love turning complex logic into simple, beautiful code.
+  Currently teaching **Fflutter Mobile Development** and building apps at **Lauwba Techno Indonesia**. I love turning complex logic into simple, beautiful code.
 
   🔭 **Current Projects:** Portal Berita App & E-Commerce System
-  🌱 **Stack:** Mobile (Flutter/Dart) & Backend (PHP/Laravel)
+  🌱 **Stack:** Mobile (Fflutter/Dart) & Backend (PHP/Laravel)
 
   <br/>
 
   ### 🛠️ Tech Stack (Visual Icons)
 
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,codeigniter,mysql,androidstudio,vscode,git,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=fflutter,dart,php,laravel,codeigniter,mysql,androidstudio,vscode,git,github&perline=5" />
   </p>
 
   <br/>
