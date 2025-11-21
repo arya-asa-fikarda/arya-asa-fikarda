@@ -18,34 +18,72 @@
 
 </div>
 
-<hr/>
+---
 
 <div align="center">
 
-  ### 🚀 About Me
-  
-  [cite_start]Currently teaching **Flutter Mobile Development** and building apps at **Lauwba Techno Indonesia**[cite: 2]. I love turning complex logic into simple, beautiful code.
+## 🚀 About Me
 
-  [cite_start]🔭 **Current Projects:** Portal Berita App & E-Commerce System [cite: 34, 44]
-  [cite_start]🌱 **Stack:** Mobile (Flutter/Dart) & Backend (PHP/Laravel) [cite: 46]
+I'm an **IT Fullstack Trainer** and **Flutter & Laravel Developer** currently teaching mobile development and building innovative applications at **Lauwba Techno Indonesia**. I'm passionate about turning complex logic into simple, beautiful code.
 
-  <br/>
+### 🎯 What I Do
+- 📱 Build mobile apps with **Flutter**
+- 🔧 Develop backend systems with **Laravel**
+- 👨‍🏫 Train developers in modern tech stack
+- 💡 Create scalable solutions
 
-  ### 🛠️ Tech Stack
+### 🔭 Current Projects
+- **Portal Berita App** - News portal with real-time updates
+- **E-Commerce System** - Full-stack marketplace solution
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,codeigniter,mysql,androidstudio,vscode,git,github&perline=5" />
-  </p>
+### 🌱 Tech Stack
+\`\`\`
 
-  <br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,codeigniter,mysql,firebase,androidstudio,vscode,git,github&perline=5" />
+</p>
 
-  ### 📊 GitHub Activity
-  
+\`\`\`markdown
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arya-asa-fikarda&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-asa-fikarda&layout=compact&theme=buefy&hide_border=true" height="160" />
-
 </div>
 
-<br/>
+---
+
+## 💼 Experience & Skills
+
+| Skill | Proficiency |
+|-------|-------------|
+| **Mobile Development** | Flutter, Dart, Android Studio |
+| **Backend Development** | Laravel, PHP, CodeIgniter |
+| **Databases** | MySQL, Firebase |
+| **Tools** | VS Code, Git, GitHub |
+
+---
+
+## 🎓 Education & Certifications
+- IT Fullstack Training Specialist
+- Flutter Mobile Development Expert
+- Laravel Backend Development
+
+---
+
+## 📬 Get In Touch
+
+Feel free to reach out to me! I'm always interested in collaborating on exciting projects.
+
+- 📧 Email: [Your Email]
+- 💬 Discord: [Your Discord]
+- 🐦 Twitter: [@yourhandle]
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
